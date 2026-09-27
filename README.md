@@ -6,11 +6,11 @@ A 2-page Power BI dashboard analyzing a year of UPI/digital transaction data (am
 
 **Page 1 – Transactions by Month** — Toggle buttons switch between Line/Column charts of Amount vs. Balance; 10 slicers for deep filtering (bank, city, device, gender, age, merchant, payment method, purpose, transaction type)
 
-![Transactions by Month](screenshots/01-transactions-by-month.png)
+![Transactions by Month](01-transactions-by-month.png)
 
 **Page 2 – City / Currency Breakdown** — Pivot table of Amount & Remaining Balance by City → Currency → Month, showing each city trades primarily in one currency
 
-![City/Currency Pivot](screenshots/02-city-currency-pivot.png)
+![City/Currency Pivot](02-city-currency-pivot.png)
 
 ## Skills Practiced
 - Bookmarks + action buttons for toggling visual states
